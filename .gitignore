@@ -1,0 +1,15 @@
+.idea
+pag
+pack-and-go
+cover.out
+cover.html
+vendor
+.env
+.DS_Store
+mock.go
+.coverage.out
+.coverage.html
+*.tmp
+mocks/*_mock.go
+config.yaml
+

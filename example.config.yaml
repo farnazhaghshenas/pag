@@ -1,0 +1,16 @@
+app:
+  PORT: 8080
+
+db:
+  DATABASE: test1
+  HOST: localhost
+  PORT: 3306
+  USERNAME: root
+  PASSWORD:
+  MAX_IDLE_CONNECTIONS: 10
+  OPEN_CONNECTIONS: 0
+  MAX_LIFE_TIME: 0
+  READ_TIMEOUT: 5s
+
+
+
